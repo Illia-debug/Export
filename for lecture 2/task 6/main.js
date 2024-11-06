@@ -6,7 +6,7 @@ if (x !== 0) {
     console.log('ok');
 } else {
     console.log('wrong');
-};
+}
 
 // let a = 1;
 // if (x !== 0) {
@@ -27,7 +27,7 @@ if (x !== 0) {
     console.log('ok');
 } else {
     console.log('wrong');
-};
+}
 
 
 

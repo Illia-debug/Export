@@ -14,5 +14,5 @@ if (x > y) {
     console.log(y);
 }else if (x===y) {
     console.log('=');
-};
+}
 
