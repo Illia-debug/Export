@@ -34,7 +34,7 @@ function array(objects) {
         console.log(object);
     }
 }
-console.log(array(users));
+array(users);
 ///////////////////////////////////////////////
 let simpsons = [
     {
@@ -73,5 +73,5 @@ let simpsons = [
         photo: 'https://upload.wikimedia.org/wikipedia/ru/9/9d/Maggie_Simpson.png'
     },
 ];
-console.log(array(simpsons));
+array(simpsons);
 
